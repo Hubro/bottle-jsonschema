@@ -1,0 +1,2 @@
+bottle>=0.12
+jsonschema>=2.6
